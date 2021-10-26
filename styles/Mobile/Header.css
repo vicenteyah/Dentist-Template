@@ -1,4 +1,4 @@
-@media all and  (max-width:600px){
+@media all and  (max-width:1000px){
     .nav-items a:nth-child(1){
         display:flex;
     }

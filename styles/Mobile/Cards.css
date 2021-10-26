@@ -1,0 +1,25 @@
+@media all and (max-width: 1000px){
+    .section-hero{
+        width: 90%;
+        margin: auto;
+        align-items: center !important;
+    }
+    .cards-content{
+        width: 100%;
+        align-items: center;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .date-content{
+        left: calc(50% - 45px) !important;
+    }
+
+    .card-text p{
+        color: #ffffff
+    }
+
+    .btn-seeMore{
+        top: 50px;
+        text-align: center;
+    }
+}
