@@ -1,0 +1,23 @@
+@media all and  (max-width:600px){
+    .nav-items a:nth-child(1){
+        display:flex;
+    }
+    .nav-items a:nth-child(2){
+        display:none;
+    }
+    .nav-items a:nth-child(3){
+        display:none;
+    }
+    .nav-items a:nth-child(4){
+        display:none;
+    }
+    .nav-items a:nth-child(5){
+        display:none;
+    }
+    .nav-items a:nth-child(6){
+        display:none;
+    }
+    .nav-items a:nth-child(7){
+        display:none;
+    }
+}
