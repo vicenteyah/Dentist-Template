@@ -21,3 +21,11 @@
         display:none;
     }
 }
+
+
+@media all and (max-width:400px){
+    header {
+        max-width: 320px;
+        margin: auto;   
+    }
+}
